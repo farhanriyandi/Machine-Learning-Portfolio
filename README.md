@@ -12,5 +12,6 @@ I learned machine learning on the YouTube channel Jcop Untuk Indonesia [Click th
 
 * [Predicting-Hotel-Booking-Cancellations](https://github.com/farhanriyandi/Predicting-Hotel-Booking-Cancellations)
 * [Sistem Rekomendasi](https://github.com/farhanriyandi/Sistem-Rekomendasi)
+* [rock paper scissor classifier](https://github.com/farhanriyandi/rockpapperscissor)
 
 
