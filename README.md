@@ -10,6 +10,6 @@ I learned machine learning on the YouTube channel Jcop Untuk Indonesia [Click th
 
 ## Other Projects
 
-* (Predicting-Hotel-Booking-Cancellations)[https://github.com/farhanriyandi/Predicting-Hotel-Booking-Cancellations]
+* [Predicting-Hotel-Booking-Cancellations](https://github.com/farhanriyandi/Predicting-Hotel-Booking-Cancellations)
 
 
