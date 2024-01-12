@@ -8,4 +8,8 @@ Repository containing portfolio of machine learning projects completed by me for
 ### Course:
 I learned machine learning on the YouTube channel Jcop Untuk Indonesia [Click this link for the YouTube channel that I followed to learn on this course](https://www.youtube.com/@JCOpUntukIndonesia/playlists)
 
+## Other Projects
+
+* (Predicting-Hotel-Booking-Cancellations)[https://github.com/farhanriyandi/Predicting-Hotel-Booking-Cancellations]
+
 
